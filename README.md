@@ -1,7 +1,7 @@
 # This is a study note
 based on a small personal cloud server with a ubuntu system.
 
-这是一个关于Ubuntu服务器部署的详细笔记.
+这是一个关于Ubuntu服务器部署的详细笔记，可能有重复和缺漏。
 
 ## 1. Linux基本操作
 
