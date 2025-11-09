@@ -1,7 +1,7 @@
 # This is a study note
 based on a small personal cloud server with a ubuntu system.
 
-# Ubuntu服务器配置指南
+# Ubuntu服务器配置
 
 这是一个关于Ubuntu服务器部署的详细笔记整理，包括基本操作、安全配置、Docker安装、数据库、Web服务器、开发流程等。内容基于提供的文档进行结构化整理，未添加任何新代码或命令，仅补充了部分缺失的解释（如命令作用、注意事项或上下文逻辑），以提升可读性。所有命令和配置保持原样。
 
